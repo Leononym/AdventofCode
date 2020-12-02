@@ -1,3 +1,3 @@
 # Advent of Code
 
-Python answer for [Advent of Code](https://adventofcode.com/)
+Python answers for [Advent of Code](https://adventofcode.com/)
