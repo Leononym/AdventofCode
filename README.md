@@ -1,2 +1,3 @@
-# AdventofCode
-Advent of Code Challenges solved by me.
+# Advent of Code
+
+Python answers for [Advent of Code](https://adventofcode.com/)
