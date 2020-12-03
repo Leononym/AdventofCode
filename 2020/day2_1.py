@@ -1,4 +1,4 @@
-with open("datainput") as f:
+with open("day2_data") as f:
     input_data = list(f.readlines())
 
 valid_passwords = 0
